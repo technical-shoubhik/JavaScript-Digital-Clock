@@ -2,7 +2,7 @@
 
 Hey Guys! This is a JavaScript Digital Clock made with HTML CSS JS !
 
-Check out this site HERE: - https://technical-shoubhik.github.io/JavaScript-Digital-Clock/index.html
+Check out this site HERE: - https://technical-shoubhik.github.io/JavaScript-Digital-Clock/
 
 You can check out my FreeCodeCamp Profile Here >>> https://www.freecodecamp.org/technical-shoubhik
 
